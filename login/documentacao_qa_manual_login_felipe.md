@@ -222,10 +222,4 @@ Os testes contemplaram:
 
 ---
 
-# Próximos Passos
-
-- Criar bug reports
-- Adicionar evidências (screenshots)
-- Publicar projeto no GitHub
-- Iniciar testes da feature Test Exceptions
 
